@@ -1,4 +1,4 @@
-# NAVIGATE - Analyses
+# NAVIGATE - Analysis of technology diffusion indicators in IAMs
 
 ![License](https://img.shields.io/github/license/iiasa/navigate-technology-analysis)
 [![python](https://img.shields.io/badge/python-3.7_|_3.8_|_3.9-blue?logo=python&logoColor=white)](https://github.com/IAMconsortium/pyam)
