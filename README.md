@@ -26,7 +26,7 @@ across models, regions or technologies.
 
 ## The pyam package
 
-<img src="https://github.com/IAMconsortium/pyam/raw/main/doc/logos/pyam-logo.png" width="133" height="100" align="right" alt="pyam logo" />
+<img src="https://github.com/IAMconsortium/pyam/raw/main/docs/logos/pyam-logo.png" width="133" height="100" align="right" alt="pyam logo" />
 
 The notebook uses the Python package **pyam**, an open-source community toolbox for
 analysis & visualization of scenario data.
